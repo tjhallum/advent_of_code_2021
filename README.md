@@ -1,2 +1,2 @@
-# advent_of_code_2021
+# Advent of Code 2021
 My solutions to the 2021 Advent of Code Puzzles
