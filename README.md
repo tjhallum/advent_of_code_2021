@@ -13,3 +13,6 @@ My solutions to the 2021 Advent of Code Puzzles
 - Day 4: [Giant Squid](https://adventofcode.com/2021/day/4)
   -  [Part 1](/day_4/advent_code_2021_day4_part1.ipynb)
   -  [Part 2](/day_4/advent_code_2021_day4_part2.ipynb)
+- Day 5: [Hydrothermal Venture](https://adventofcode.com/2021/day/5)
+  -  [Part 1](/day_5/advent_code_2021_day5_part1.ipynb)
+  -  [Part 2](/day_5/advent_code_2021_day5_part2.ipynb)
